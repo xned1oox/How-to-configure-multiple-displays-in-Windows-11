@@ -16,7 +16,13 @@ Do you want to hook up another display/monitor or just attach another screen to 
 <h1>Deployment and Integration Steps</h1>
 Step 1.) Ensure you have all necessary cables to complete this guide.
   - If you look on the back of your monitor/display device, you should see one of possible "ports" for a display or HDMI cable.
-  ![image](https://github.com/xned1oox/How-to-configure-multiple-displays-in-Windows-11/assets/142749625/695aff17-df6e-4227-9559-af8fd84dd71d)
-  In this picture, the port to the LEFT is called a displayport and to the right is called an HDMI port. Depending on which type of port you find on the back/bottom of your device will depend on what kind of cable you need. If its a display port for example, you will need a displayport cable, and vice a versa for an HDMI port (you will need HDMI cable). make sure to have the proper cables for this guide before going further.
   
+![image](https://github.com/xned1oox/How-to-configure-multiple-displays-in-Windows-11/assets/142749625/13fa7550-61a3-4349-9652-0207e6f06a55)
+
+In this picture, the port to the LEFT is called a displayport and to the RIGHT is called an HDMI port. Depending on which type of port you find on the back/bottom of your device will depend on what kind of cable you need. 
+- If its a display port for example, you will need a displayport cable, and vice a versa for an HDMI port (you will need HDMI cable). make sure to have the proper cables for this guide before going further.
+- Check your computer to see what type of ports it has for a display/HDMI cable and make sure the cable you buy can support both ends for the external display and your machine.
+- If your devices have both, you can take your pick as to which one you wish to use.
+(FOR GAMERS/CAD/HIGH END APPLICATION USERS: YOU WANT TO USE A DISPLAYPORTS/D.P.CABLE IF YOU WANT YOUR SECOND MONITOR TO HAVE HIGH FRAMERATE AND REFRESH RATE CAPABILITIES)
+
 
