@@ -51,7 +51,27 @@ Step 3.) Connecting your Machine to the Display Device
 - IF the device has power, but your machine still doesn't recognize the display device, try to restart your machine first with the cables still plugged in.
 - IF after the restart it still doesn't show anything, check in the settings tab if a display is recognized by the machine.
    
-Step 3.) 
+Step 4.) Configuring your Display Settings
+- Once your monitor is recognized by your machine, it should display your wallpaper and possibly the taskbar that also appears on your machine. Go back into the "Advanced Disply" settings.
+- The first thing to understand is that your machine and the display device need to know where they are from each other. At first, an emblem like this will appear in the settings
+
+  ![image](https://github.com/xned1oox/How-to-configure-multiple-displays-in-Windows-11/assets/142749625/e29b92ac-a302-4ecb-9e0e-5a6a8537efdf)
+
+This is a default setting called "Duplicate These Displays". This indicates that whatever you have on your machine's screen, will be duplicated onto your second display device. This is helpful when you want to see the same window/tab on two different screens (potentially one larger screen).
+
+However, there is another screen setting that i find much more useful called "Extend These Displays".
+
+![image](https://github.com/xned1oox/How-to-configure-multiple-displays-in-Windows-11/assets/142749625/64fb76d4-2f84-426c-a603-9a50e6a190b0)
+
+When you select this screen setting, you get a "blank" or mostly empty wallpaper screen on your external display device, and all your current windows/tabs are on your machine's display. This allows you to have mutliple fullscreen tabs/windows open at the same time. This is extremely helpful in multitasking across mutliple websites or programs.
+
+- The numbers on the screen icons correlate to what screen is the "Main" screen and which screen is the "duplicate" or "second" screen. For example, if you started an application or program, that application/program will open up on whatever screen is labeled as the "1" icon in that settings screen. Most of the time I recommend that you leave your machine's screen as the "1" and your other display device as the "2" but its totally up to you. You can switch them around and see what happens to get a better idea of how it works.
+
+- For those of you who wish to play games, watch HD videos on each screen, the "Choose a refresh rate" option allows you to increase/decrease the rate at which your screen refreshes the images/pixels per second. (TIP:The higher the number -> the faster your screen refreshes -> the higher the quality/speed your videos/games will display in)
+
+Step 5.) Enjoy your mutliple screens!
+
+
 
 
 
