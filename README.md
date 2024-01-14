@@ -44,6 +44,16 @@ Step 3.) Connecting your Machine to the Display Device
 
 ![image](https://github.com/xned1oox/How-to-configure-multiple-displays-in-Windows-11/assets/142749625/b89c6b31-78bf-4a8b-b720-d97a91f92dc7)
 
+- Once one end is plugged into your machine, and the other into your display device/monitor, you should now see your computer show a second display option at the top of the "Advanced Display" settings tab.
+
+*Troubleshoot*
+- IF your computer doesn't recognize the display device and the monitor/display doesn't show anything after plugging in all the cables, check to make sure your display device is plugged in and has power. If your display device has power, a power light will be glowing from somewhere on the bottom or front of the display device/monitor.
+- IF the device has power, but your machine still doesn't recognize the display device, try to restart your machine first with the cables still plugged in.
+- IF after the restart it still doesn't show anything, check in the settings tab if a display is recognized by the machine.
+   
+Step 3.) 
+
+
 
 
 
