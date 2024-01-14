@@ -7,3 +7,9 @@ Do you want to hook up another display/monitor or just attach another screen to 
 
 <h1>Environments and Technologies Used</h1>
 <h3>Windows 11 Operating system</h3>
+
+<h1>Tools needed to Follow along</h1>
+<h3>Machine running windows 10/11 OS</h3>
+<h3>Display device to connect your machine to</h3>
+
+<h1>Deployment and Integration Steps</h1>
