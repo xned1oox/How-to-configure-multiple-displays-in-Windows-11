@@ -34,5 +34,16 @@ Step 2.) The Settings
 - Turn on your windows machine/computer and have it on the home screen. Once at the home screen you will then want to click on the windows menu (or hit the windows key) and go to settings.
 - Once in settings, go to either "Display" or go to "System" then to "Display". This will bring up the display settings on your computer. In this section, you can change settings such as your brightness, you can add a night light timer that dims the birhgtness after a certain time of day (based on your clock dat and time configuration in windows), display resolution etc.
 - Go down until you see the "Advanced Display" tab and click into that. This is where you can change settings based on how many displays/monitors you have plugged in to the same machine/computer.
-- 
+
+Step 3.) Connecting your Machine to the Display Device
+<p>
+- Grab your cables that we talked about earlier, and plug one end into the back of your display, and the other end into your computer.
+</p>
+
+![image](https://github.com/xned1oox/How-to-configure-multiple-displays-in-Windows-11/assets/142749625/10267380-acff-484f-acf2-94a98cb42415)
+
+![image](https://github.com/xned1oox/How-to-configure-multiple-displays-in-Windows-11/assets/142749625/b89c6b31-78bf-4a8b-b720-d97a91f92dc7)
+
+
+
 
