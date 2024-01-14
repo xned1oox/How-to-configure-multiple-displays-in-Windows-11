@@ -10,6 +10,7 @@ Do you want to hook up another display/monitor or just attach another screen to 
 
 <h1>Tools needed to Follow along</h1>
 <h3>Machine running windows 10/11 OS</h3>
-<h3>Display device to connect your machine to</h3>
+<h3>Display device/Monitor you want to connect with your machine</h3>
+<h3>Display Cables assoicated with the display device/monitor</h3>
 
 <h1>Deployment and Integration Steps</h1>
