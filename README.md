@@ -67,6 +67,8 @@ When you select this screen setting, you get a "blank" or mostly empty wallpaper
 
 - The numbers on the screen icons correlate to what screen is the "Main" screen and which screen is the "duplicate" or "second" screen. For example, if you started an application or program, that application/program will open up on whatever screen is labeled as the "1" icon in that settings screen. Most of the time I recommend that you leave your machine's screen as the "1" and your other display device as the "2" but its totally up to you. You can switch them around and see what happens to get a better idea of how it works.
 
+- The display "icons" indicate to your machine where your other display is, so if you have the "1" display in the middle and the "2" display to the left, you will have to will have to drag all of your other tabs/applications to the left of your machine screen in order to put them on your other display device. If you wish to change this, click and hold onto your "2" display icon and drag it to either the other side, or you can put it above/below your "1" monitor. (TIP: Unless you have a special monitor/display set up or a TV above your machine directly, i would advise only moving the "2" display to the left or right of your "1" diaply icon.)
+
 - For those of you who wish to play games, watch HD videos on each screen, the "Choose a refresh rate" option allows you to increase/decrease the rate at which your screen refreshes the images/pixels per second. (TIP:The higher the number -> the faster your screen refreshes -> the higher the quality/speed your videos/games will display in)
 
 Step 5.) Enjoy your mutliple screens!
